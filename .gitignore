@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build/
+.codex-basecamp/
+config.local.json
+.env
+.env.*
+!.env.example

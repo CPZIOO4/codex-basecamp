@@ -1,0 +1,166 @@
+{
+  "schema": "codex-basecamp.public-artifacts.v1",
+  "algorithm": "sha256",
+  "records": [
+    {
+      "path": ".gitattributes",
+      "sha256": "8d75fbed0329d55480242ea79c61cbdd3da312c700298bfba9572b81ec325cc6"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "da89a7f647fe5733b3579abcf09cd0bbb68ae1826cf00ad1a12f6fbfc4bfc9e2"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "26ebdc5c140b18b5543d1067f9c7e923e613c81afd0eaa337432b9a0672877f3"
+    },
+    {
+      "path": "basecamp.py",
+      "sha256": "08d88a2ee874399c899e785cb6a76b19ce5427e0cad933b29676a526b9174bc2"
+    },
+    {
+      "path": "discuss/README.md",
+      "sha256": "54cf8d73feebcface5bef2382584a77ff711d7b3f7be5a46f2519fdf81252942"
+    },
+    {
+      "path": "docs/architecture.md",
+      "sha256": "0c1ddb3183df0f8e98b2a9dc3ce7f136bb19855fe7373e74066cd5bec596edcc"
+    },
+    {
+      "path": "docs/privacy.md",
+      "sha256": "547b1022a66e85a91a288958a2caba9fd43774a223e75f9714c30af68390bf5b"
+    },
+    {
+      "path": "docs/README.md",
+      "sha256": "734edc03fe748de323c725506141a750b1986ab079ef7cbca2b956935d2cd36f"
+    },
+    {
+      "path": "docs/recovery.md",
+      "sha256": "eea5097353b6caa019ec5208204a243bd021c807e97d834e30fe451ed92d6cca"
+    },
+    {
+      "path": "docs/validation.md",
+      "sha256": "efc7d406925910456bc9763a24a3c5780656096a55d8ab796632447f00fc4763"
+    },
+    {
+      "path": "framework/cli.py",
+      "sha256": "bc7402afec4d91723d31f48cc6174ac1c4fe2a7ba67c64aac470291a3bbbc1d2"
+    },
+    {
+      "path": "framework/locking.py",
+      "sha256": "6e6883cb9a7895ea763f022137a32c11a4b525979e3defe1ae6680a5a3187258"
+    },
+    {
+      "path": "framework/mailroom.py",
+      "sha256": "65309d624986790b5d83046c74c585d74c7a91510cae5fd2f07ccfb932bb0110"
+    },
+    {
+      "path": "framework/native_desktop.py",
+      "sha256": "0682afe6fa470d4e0231328ad0a1f4e295f573bb27b6103a4cc4da4077f169eb"
+    },
+    {
+      "path": "framework/provision.py",
+      "sha256": "6045e1f57949072eb382326206c30f18c7df7f175d11639c5e2f952ac30e9c22"
+    },
+    {
+      "path": "framework/README.md",
+      "sha256": "2f5d7564ba3b6db7a0760978124f73806cdf31b93baf40f0c7c9e10fdf2aeea5"
+    },
+    {
+      "path": "framework/scaffold.py",
+      "sha256": "a08f04a4b1a368ef0517a847bbb8f5b5c9e874c14489cea82025de656ec0062e"
+    },
+    {
+      "path": "framework/settings.py",
+      "sha256": "37b96e65c146ddb5951d833d2d89e8c574d04269dfa0541ef40608b335251ee6"
+    },
+    {
+      "path": "README.md",
+      "sha256": "fdeb75177699fa59cde44733303c0bc14e8e95045056be63711db287e01e2431"
+    },
+    {
+      "path": "START.md",
+      "sha256": "071bbde519fa6fd5095ca7420f60e32b02cc3da0b296b6104b9f84da6f8cd757"
+    },
+    {
+      "path": "templates/AGENTS.md",
+      "sha256": "486b2dd0276d40a7c24887e841d6a33d76a82870b2d3539a9850fdcebf7d69a4"
+    },
+    {
+      "path": "templates/README.md",
+      "sha256": "904760c339b2ff6ed54e46a70309e1cebb6b12ac6cca106d68bf44877873881c"
+    },
+    {
+      "path": "templates/skills/camp-analyze/SKILL.md",
+      "sha256": "0d7831d8def92c9ff62aef8239cb6d21ea3faee41945ca08ffe60b56df9ce44b"
+    },
+    {
+      "path": "templates/skills/camp-context/SKILL.md",
+      "sha256": "e9e0068b1a6a788838b5c370ce360d92c93e31aec6f118b1d790d5689e51528e"
+    },
+    {
+      "path": "templates/skills/camp-discuss/SKILL.md",
+      "sha256": "18dcb1d976a3d58d69d5e89f829a1900dc19fbee7ee5551e71db14638e86b4a2"
+    },
+    {
+      "path": "templates/skills/camp-dispatch/SKILL.md",
+      "sha256": "52d2b5d682b41ef6b6cc24ec0261af2f324628fcdc68a9b4ce809e8e1a92d9a7"
+    },
+    {
+      "path": "templates/skills/camp-experiment/SKILL.md",
+      "sha256": "db125fe5c61235c064765a92b26f1f20978611c05c2d02b3560bd47dc4433db4"
+    },
+    {
+      "path": "templates/skills/camp-implement/SKILL.md",
+      "sha256": "40d6fd1c5374d5bcdd5972eaeaf9cb8c8ba08a5b79c9311e00a05d08b8475853"
+    },
+    {
+      "path": "templates/skills/camp-orchestrate/references/model-policy.md",
+      "sha256": "53c6f2046912a8744409c41314797856b3ecc687679b9869f19c0e292e2e34f7"
+    },
+    {
+      "path": "templates/skills/camp-orchestrate/SKILL.md",
+      "sha256": "11fbb39f5cb55b4411e09faa93298b153f901b9bae85c93c2461e88face4298c"
+    },
+    {
+      "path": "templates/skills/camp-organize/SKILL.md",
+      "sha256": "a2aa9fc9cc1459f8356ab8f4f8a2dc71f1ec5d20eba075fe340a24740b621b5d"
+    },
+    {
+      "path": "templates/skills/camp-plan/SKILL.md",
+      "sha256": "e1ef3062d8569768adebbc51d48a87946014a2b0fad105ee4ae841c8aa73ea51"
+    },
+    {
+      "path": "templates/skills/camp-verify/SKILL.md",
+      "sha256": "adf24e915cfe3e610cc43c569ee59f7fb6018c3e2263e76c601a2e2433c2af3a"
+    },
+    {
+      "path": "templates/START.md",
+      "sha256": "e9aef68b8aabff2e6f5fc0451abefe4a66650f77eee5c9c9b2944df6025d4276"
+    },
+    {
+      "path": "templates/WORKFLOW.md",
+      "sha256": "3f7915212ac642bd40cc905ab040807a7536498bc5a8c277536ab1593c6568f0"
+    },
+    {
+      "path": "tests/README.md",
+      "sha256": "0e1a3ecd5db90c4c31cedb61449583a6a3db417d9f95f5db1f259bf48818ecc1"
+    },
+    {
+      "path": "tests/test_mailroom.py",
+      "sha256": "1c552dc747a647b89f8d105a31ee4965cb8a50a04d8c2640d69046c6f4b2870c"
+    },
+    {
+      "path": "tests/test_native_desktop.py",
+      "sha256": "7a0aa95b892d4069d8f470020c6fc5f7feb881abe281b79e25c1c465e7943ed0"
+    },
+    {
+      "path": "tests/test_provision.py",
+      "sha256": "3eaaa477bd438f7989fd98870ca7dd63c8dddad2174914550d7866bb0479874c"
+    },
+    {
+      "path": "tests/test_scaffold.py",
+      "sha256": "78eeb74fae7c520f6635c6be118d9b075db8b5b672adc58c1643f8d8b61fc7a7"
+    }
+  ]
+}
