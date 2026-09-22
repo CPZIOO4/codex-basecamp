@@ -40,7 +40,7 @@
     },
     {
       "path": "docs/validation.md",
-      "sha256": "efc7d406925910456bc9763a24a3c5780656096a55d8ab796632447f00fc4763"
+      "sha256": "1968a10e45bb2011e93085146adafe5bc94bcd1743740070808cdc3de6a073fe"
     },
     {
       "path": "framework/cli.py",
@@ -76,7 +76,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "fdeb75177699fa59cde44733303c0bc14e8e95045056be63711db287e01e2431"
+      "sha256": "77535779f26840c60b6b4cb6bd6aa2b7385171dceaa706774daec45243e71272"
     },
     {
       "path": "START.md",
